@@ -12,6 +12,7 @@ CSV File: The data was exported to a CSV file for further analysis or reporting 
 OLE DB Destination: The data was loaded into an OLE DB-compliant database for storage and querying.
 This structured data pipeline enabled efficient data processing and ensured the integrity and usability of the final outputs.
 
+![image](https://github.com/user-attachments/assets/175460d0-fb6b-4f93-b906-ec2f5f6a6cad)
 
 
 ![image](https://github.com/user-attachments/assets/b1df51e3-8854-4828-b653-ebadf83721d0)
