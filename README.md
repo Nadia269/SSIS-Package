@@ -8,7 +8,7 @@ Copy Column Transformation: I duplicated certain columns within the dataset to f
 Union All Transformation: Multiple datasets were merged to consolidate the data into a single output.
 Audit Transformation: An audit process was implemented to track the number of rows passing through the data flow, ensuring data integrity.
 Multicast Transformation: The processed data was then split into two paths:
-CSV File: The data was exported to a CSV file for further analysis or reporting.
+CSV File: The data was exported to a CSV file for further analysis or reporting file name=prediction.
 OLE DB Destination: The data was loaded into an OLE DB-compliant database for storage and querying.
 This structured data pipeline enabled efficient data processing and ensured the integrity and usability of the final outputs.
 
