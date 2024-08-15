@@ -13,7 +13,19 @@ OLE DB Destination: The data was loaded into an OLE DB-compliant database for st
 This structured data pipeline enabled efficient data processing and ensured the integrity and usability of the final outputs.
 
 
+
 ![image](https://github.com/user-attachments/assets/b1df51e3-8854-4828-b653-ebadf83721d0)
+
+
+![image](https://github.com/user-attachments/assets/44f7fb7b-1c12-4334-972e-5187c881a50e)
+
+
+
+
+
+
+
+
 
 
 
